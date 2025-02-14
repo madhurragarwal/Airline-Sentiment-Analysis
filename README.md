@@ -23,7 +23,7 @@ The following tools and technologies will be used in this project:
 3. Deep Learning Frameworks: TensorFlow, PyTorch, or Keras for building and training deep learning models.
 4. Visualization Tools: Matplotlib, Seaborn, or Plotly for creating visualizations.
 5. Data Storage: Depending on the size of the dataset, store data in CSV, JSON, or a relational database.
-
+6. 
 ## Getting Started
 To get started with this project, follow these steps:
 1. Data Collection: Collect customer feedback data from relevant sources and store it in a structured format.
